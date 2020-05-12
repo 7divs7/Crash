@@ -12,12 +12,13 @@ Dodge obtacles :) Collect coins! Jump over manholes :P
 $ git clone https://github.com/7divs7/Crash.git
 ```
 
+## Dependencies
+```bash
+$ pip3 install -r requirements.txt
+```
+
 ## Instructions
 ```bash
 $ python3 crash_main.py
 ```
 
-## Dependencies
-```bash
-$ pip3 install -r requirements.txt
-```
