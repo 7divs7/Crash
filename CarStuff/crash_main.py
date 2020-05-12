@@ -247,7 +247,7 @@ def main():
 
        
         #boundary check
-        if((startx > display_width-car_width) or (startx<0)):
+        if((startx > right_x - car_width) or (startx<left_width)):
             gameOver = True
             g = 0
         
