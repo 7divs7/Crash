@@ -22,3 +22,9 @@ $ pip3 install -r requirements.txt
 $ python3 crash_main.py
 ```
 
+## Output
+![Alt Text](https://github.com/7divs7/Crash/blob/master/CarStuff/crash.gif)
+
+## Author
+[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
+* [*Divyani Panda*](https://github.com/7divs7)
